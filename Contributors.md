@@ -11,3 +11,4 @@
 | Mehran Kamal         | BS (CS) | Full Stack Web Engineering (Backend and Infra focused) | Java, Kotlin, Spring Boot, Javascript, Typescript, NodeJS, Kubernetes, Terraform, Digital Ocean, ReactJS, Restful API, gRPC, Distributed Systems | [mehrankamal](https://github.com/mehrankamal) |
 | Saqib Younis | Intermediate | Back-end Dev / Python | HTML, Bootstrap, MySQL, Linux, Git | [sa-qib](https://github.com/sa-qib) |
 | Shehzad Iqbal | BSCS | Full Stack Dev / Teacher | JavaScript, MERN Stack, NextJs, NestJs | [shehza-d](https://github.com/shehza-d) |
+| Muhammad Hamza | BS (CS) | Software Engineer(Python) | Python, Django, JavaScript, Selenium, Playwright, Cypress, Jenkins, Docker, MySQL | [thisishamza](https://github.com/thisishamza) |
