@@ -9,3 +9,4 @@
 | Usman Latif       | BSCS                  | Software Engineer (Frontend)       | Javascript, Angular, React  | [Usman Latif](https://github.com/usmanmughal11) |
 | Abdullah Noor Niazi         | Bachelor's in Computer Science | Full Stack Web Developer, Data Scientist | JavaScript, Python, React, Node.js, Express.js, MongoBD, HTML5, CSS3, MySQL, Git, Bootstrap, Tailwind CSS, Pandas, Numpy, Matplotlib, Machine learning algorithms, NLP, Bert | [Abdullah Noor Niazi](https://github.com/abdullah12022skipq) |
 | Mehran Kamal         | BS (CS) | Full Stack Web Engineering (Backend and Infra focused) | Java, Kotlin, Spring Boot, Javascript, Typescript, NodeJS, Kubernetes, Terraform, Digital Ocean, ReactJS, Restful API, gRPC, Distributed Systems | [mehrankamal](https://github.com/mehrankamal) |
+| Shehzad Iqbal | BSCS | Full Stack Dev / Teacher | JavaScript, MERN Stack, NextJs, NestJs | [shehza-d](https://github.com/shehza-d) |
