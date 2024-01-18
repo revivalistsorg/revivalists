@@ -12,3 +12,4 @@
 | Saqib Younis | Intermediate | Back-end Dev / Python | HTML, Bootstrap, MySQL, Linux, Git | [sa-qib](https://github.com/sa-qib) |
 | Shehzad Iqbal | BSCS | Full Stack Dev / Teacher | JavaScript, MERN Stack, NextJs, NestJs | [shehza-d](https://github.com/shehza-d) |
 | Muhammad Hamza | BS (CS) | Software Engineer(Python) | Python, Django, JavaScript, Selenium, Playwright, Cypress, Jenkins, Docker, MySQL | [thisishamza](https://github.com/thisishamza) |
+| Fawad Hussain Zia | BS (SE) | Software Engineer(MERN, Flutter, Blockchain) | Javascript, dart, python, typescript, solidity, React, Flutter, Docker, MySQL, Mongodb, Firebase, AWS S3, ElasticSearch,  | [Fawad06](https://github.com/Fawad06) |
