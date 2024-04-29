@@ -1,5 +1,6 @@
 | Name             | Highest Education  | Expertise           | Technologies                        | Github Profile                  |
 |------------------|--------------------|---------------------|-------------------------------------|---------------------------------|
+| MUhammad Usman      | BSIT, AWS & PIAIC Certified Cloud Practitioner, | Android Engineer, Web Developer, AI App Developer       | Kotlin, React, AWS, Google Cloud, Open AI, Docker    | [Muhammad Usman](https://msusman1.github.io/)       |
 | Muhammad Ans Khan        | BSIT                  | Software Engineer (Full Stack)       |  Python, Javascript, Nodejs, React, ASP.NET Core, Django, PHP, Java, Dart, C++          | [Muhammad Ans Khan](https://github.com/Muhammad-AnasKhan)         |  
 | Saad Hussain         | High School                  | Programing & Web Development        | Python, Javascript, C++          | [Saad](https://github.com/SaadHusayn)         |  
 | Mobeen Ejaz Ahmad         | BSCS                  | Programming & Frontend web development        | HTML,CSS,Javascript(REACT/NEXT)          | [Mobeen](https://github.com/Mobeen68)         |
