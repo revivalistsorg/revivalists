@@ -15,3 +15,4 @@
 | Muhammad Hamza | BS (CS) | Software Engineer(Python) | Python, Django, JavaScript, Selenium, Playwright, Cypress, Jenkins, Docker, MySQL | [thisishamza](https://github.com/thisishamza) |
 | Fawad Hussain Zia | BS (SE) | Software Engineer(MERN, Flutter, Blockchain) | Javascript, dart, python, typescript, solidity, React, Flutter, Docker, MySQL, Mongodb, Firebase, AWS S3, ElasticSearch,  | [Fawad06](https://github.com/Fawad06) |
 | Aman Nadeem | BS (CS) | Software Engineer(PHP, Laravel, Vue.js) | Javascript, python, typescript, solidity, React, Flutter, Docker, MySQL, ElasticSearch,  | [recdata](https://github.com/recdata) |
+| Muhammad Saad Siddique        | BSIT                  | Software Engineer (Full Stack)       |  Python, Java, kotlin, Django, PHP, Java,Postman API Tester, Cyber Security           | [Muhammad Saad Siddique]([https://github.com/Muhammad-AnasKhan](https://github.com/MuhammadSaadSiddique))         |  
